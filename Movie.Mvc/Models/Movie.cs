@@ -1,4 +1,4 @@
-using System.ComponentModel.DataAnnotaions;
+using System.ComponentModel.DataAnnotations;
 
 namespace Movie.Mvc.Models;
 
