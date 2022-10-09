@@ -21,4 +21,10 @@ ni -Type File .\Controllers\HelloWorldController.cs
 ni -Force -Type File .\Views\HelloWorld\Index.cshtml
 ni -Force -Type File .\Views\HelloWorld\Welcome.cshtml
 
+# Add Model
+ni -Type File .\Models\Movie.cs
+
+
+
+
 ```
