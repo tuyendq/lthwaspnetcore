@@ -19,5 +19,6 @@ ni -Type File .\Controllers\HelloWorldController.cs
 
 # Add View
 ni -Force -Type File .\Views\HelloWorld\Index.cshtml
+ni -Force -Type File .\Views\HelloWorld\Welcome.cshtml
 
 ```
