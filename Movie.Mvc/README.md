@@ -6,8 +6,14 @@
 
 ```powershell
 
+# Get started
 dotnet new mvc -o Movie.Mvc
 cd $$
 ni -Type File README.md
+dotnet build
+dotnet run
+
+# Add Controller
+ni -Type File .\Controllers\HelloWorldController.cs
 
 ```
